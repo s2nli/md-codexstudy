@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "404",
+      "name": "RRB NTPC 2026 : विश्वास BATCH",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-28-0.39020725333791095.png",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "401",
+      "name": "RRB TECHNICIAN GRADE 3 RANKERS 2026",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-13-0.2552375004286078.jpeg",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "400",
+      "name": "RRB TECHNICIAN GRADE 1 RANKERS 2026",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-13-0.3192498218529114.jpeg",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "389",
+      "name": "RRB ALP 2026 CBT -1  : RANKERS BATCH",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-22-0.5878871156588662.png",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "307",
+      "name": "RAILWAY 2026 : कामयाब बैच  (More Than Foundation )",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-08-29-0.02112382426431403.jpeg",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "402",
+      "name": "RRB Technician Grade-3 + RANKERS COMBO BATCH 2026",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-14-0.6568165482161522.png",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "403",
+      "name": "RRB Technician Grade-1 + RANKERS COMBO BATCH 2026",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-14-0.4699459975314414.png",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "405",
+      "name": "RRB GROUP D VOD 2026 BATCH",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-27-0.37912912494267237.png",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "354",
+      "name": "Railway Section Controller 2026 – Backbone Batch",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-09-11-0.3471548331044456.jpeg",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    },
+    {
+      "_id": "355",
+      "name": "Railway Section Controller – VOD +Live combo",
+      "previewImage": "https://appx-content-v2.classx.co.in/paid_course3/2026-08-29-0.8824333650469469.jpeg",
+      "byName": "MD Classes",
+      "language": "Hindi",
+      "feeTotal": "Enrolled / Free"
+    }
+  ]
+}
